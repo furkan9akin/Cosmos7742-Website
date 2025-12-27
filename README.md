@@ -4,11 +4,9 @@ Official website for Cosmos Robot Works (Team 7742) - Nakkastpe Bahcesehir High 
 
 ## Features
 
-- Modern, responsive design with a space/cosmos theme
-- Smooth scrolling navigation
+- Modern, responsive design and good transitions
 - Sections: Home, About Us, Our Work, Sponsors, Subteams, Team Archive, Contact
 - Built with Vue.js 3 and Vue Router
-- Beautiful animations and transitions
 
 ## Getting Started
 
